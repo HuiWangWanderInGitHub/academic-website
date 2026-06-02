@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "BACI Group"
+  site-url: "https://yourdomain.org"
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "PI"
+        href: PI_profile.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/HuiWangWanderInGitHub
+      - icon: envelope
+        href: mailto:huiw16@uci.edu
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=Z0dodu4AAAAJ&hl=en&oi=ao
+
+  page-footer:
+    left: "© 2026 Wang Research Group"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true

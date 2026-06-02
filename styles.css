@@ -1,0 +1,112 @@
+/* css styles */
+.hero-title {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.35),
+      rgba(0, 0, 0, 0.35)
+    ),
+    url("images/general/title_forest.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 200px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+}
+
+.hero-title h1 {
+  color: white;
+  font-size: 2.0rem;
+  font-weight: 700;
+  max-width: 950px;
+  line-height: 1.2;
+}
+
+.recruiting-highlight {
+  background: #eaf7ea;
+  border: 1px solid #9acb9a;
+  padding: 1rem 1.25rem;
+  margin: 1.1rem 0;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.BACI-highlight {
+  background: #fff0f3;       /* 极浅的樱花粉背景 */
+  border: 1px solid #ffccd5;  /* 柔和的玫瑰粉边框 */
+  color: #c9184a;             /* 稍微加深的暗粉色文字，确保网页可读性 */
+  padding: 1rem 1.25rem;
+  margin: 1.1rem 0;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+body {
+  font-size: 20px;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  font-weight: 650;
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+.hero {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.hero h2 {
+  margin-top: 1.5rem;
+}
+
+.person {
+  margin-bottom: 2rem;
+}
+
+.person img {
+  border-radius: 12px;
+  margin-right: 1.5rem;
+}
+
+img {
+  border-radius: 8px;
+}
+
+blockquote {
+  border-left: 4px solid #ddd;
+  padding-left: 1rem;
+  color: #555;
+}
+
+.welcome-section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.welcome-text {
+  flex: 1;
+}
+
+.welcome-logo {
+  flex: 0 0 220px;
+  text-align: center;
+}
+
+.welcome-logo img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+}

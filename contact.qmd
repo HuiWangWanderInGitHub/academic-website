@@ -1,0 +1,16 @@
+---
+title: "Contact"
+---
+
+## Contact information
+
+**Dr. Hui Wang**  
+
+Email: huiw16@uci.edu
+
+## Links
+- [Nanjing-Helsinki Institute](https://nh.nju.edu.cn/en/)
+- [Google Scholar](https://scholar.google.com/citations?user=Z0dodu4AAAAJ&hl=en&oi=ao)
+- [ORCID](https://orcid.org/0000-0002-3380-6903)
+- [GitHub](https://github.com/HuiWangWanderInGitHub)
+- [ResearchGate](https://www.researchgate.net/profile/Hui-Wang-95?ev=hdr_xprf&_sg=JfEj1hUKcNrfYrQH9-77kXsu4PiqrnHb2Dz2Mire3L2sbNaNtzHb9sSn-ZZlHvPcUVxeuhQKVwgpR6avkA47In-F)

@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+## Ocean iron fertilization and carbon removal
+
+This project examines the carbon removal potential, ecological risks, and recovery timescales of ocean iron fertilization using Earth system model simulations.
+
+## Marine ecosystem modeling
+
+This project studies phytoplankton and zooplankton dynamics using multiple plankton functional types.
+
+## Wildfire smoke and urban air quality
+
+This project studies how wildfire smoke interacts with urban pollution and temperature to affect ozone formation.
+
+## Data-driven Earth system analysis
+
+This project develops workflows for analyzing large model outputs, including NetCDF files, ensemble simulations, and statistical diagnostics.

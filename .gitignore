@@ -1,0 +1,9 @@
+/.quarto/
+/stability.fltr
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.ipynb_checkpoints/
+
+**/*.quarto_ipynb

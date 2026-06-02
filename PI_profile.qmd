@@ -1,0 +1,36 @@
+---
+title: "Principal investigator"
+---
+
+::: {.person}
+![](images/people/Portrait_Small.jpg){fig-alt="Profile photo" width="240"}
+
+### Dr. Hui Wang
+
+Assistant Professor
+
+Nanjing-Helsinki Institute in Atmospheric and Earth System Sciences, Nanjing University
+
+
+CV: 
+<a class="btn btn-outline-secondary" href="file/CV_Hui_Wang_May_2026.pdf" target="_blank" aria-label="CV">
+  <i class="bi bi-file-earmark-pdf"></i>
+</a>
+
+
+## Job History:
+
+2026- Assistant Professor in Nanjing University
+
+2024-2026 Postdoc Researcher in University of California Irvine
+
+## Eduacation history:
+
+2019-2024 University of California Irvine, PhD in Earth System Science (Advisor: Alex B. Guenther)
+
+2015-2018 Beijing Normal University, Master in Global Environment Change (Advisor: Qizhong Wu)
+
+2011-2015 Hefei University of Science and Technology, Bachelor in Geographic Information System
+
+Research interests: biogenic volatile organic compounds, urban air quality, earth system modeling.
+:::

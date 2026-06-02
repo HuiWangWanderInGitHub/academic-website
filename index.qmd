@@ -1,0 +1,51 @@
+---
+title: ""
+---
+
+::: {.hero-title}
+
+# Biosphere-Atmosphere Chemical Interaction (BACI) Research Group
+
+:::
+
+::: {.welcome-section}
+
+::: {.welcome-text}
+
+## Welcome
+
+We study exchanges of reactive trace gases between ecosystems and atmosphere using lab experiments, field measurements, and numerical models at ***Nanjing-Helsinki Institute in Atmospheric and Earth System Sciences, Nanjing University, Suzhou, China***.
+
+
+
+:::
+
+::: {.welcome-logo}
+
+![](images/general/NJU_LOGO.png){fig-alt="BACI logo"}
+
+:::
+
+:::
+
+
+::: {.recruiting-highlight}
+I'm looking for motivated and enthusiastic Undergrad/Master/PhD students to join my group!
+:::
+
+
+## Research areas
+
+- Biogenic Volatile Organic Compounds (BVOCs)
+- Ecological sources and sinks of reactive gases
+- Extreme events and ecosystem stress
+- Urban greening and air quality
+- Earth system modeling
+
+## Recent news
+
+- **May 2026** — Our group website is launched.
+
+## Featured publications
+
+See the full publication list [here](publications.qmd).

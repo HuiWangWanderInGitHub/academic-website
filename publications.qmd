@@ -1,0 +1,60 @@
+---
+title: ""
+---
+
+## Publications
+
+### 2026
+
+1. Zhang, Y., Wu, K., **Wang, H.^*^**, Pfannerstill, E. Y., Nagalingam, S., Coggon, M. M., Stockwell, C., Ruiz, M. V., Ho, C., Yu, Y., et al. Reconciling observed and modeled estimates of urban terpenoid emissions. (Accepted by *Nature Communications*, corresponding author)
+
+2. Yu, J., Moore, J. K., Primeau, F. W., Nuno, A., Krumhardt, M. M., Levy, M., Lindsay, K., **Wang, H.**, Martiny, A. C. Trade-off between Climate Benefits and Ecological Costs of Ocean Iron Fertilization. （Accepted by *Nature*）
+
+### 2025
+
+1. Katz, E. F., Arata, C. M., Pfannerstill, E. Y., Weber, R. J., Ng, D., Milazzo, M. J., Byrne, H., **Wang, H.**, Guenther, A. B., Rey-Sanchez, C., et al. Biogenic and anthropogenic contributions to urban terpenoid fluxes. *Atmospheric Chemistry and Physics*, 25(21), 15281–15299.
+
+2. Bourtsoukidis, E., Guenther, A., **Wang, H.**, Economou, T., Lazoglou, G., Christodoulou, A., Christoudias, T., Nölscher, A., Yáñez-Serrano, A. M., and Peñuelas, J. Environmental change is reshaping the temperature sensitivity of sesquiterpene emissions and their atmospheric impacts. *Global Change Biology*, 31(6), e70258.
+
+3. Welch, A. M., Matthews, T., Sheesley, R. J., **Wang, H.**, Barsanti, K. C., Nielsen, N., Xu, X., Niu, L., Guenther, A. B., and Czimczik, C. I. Summertime carbonaceous aerosol in interior versus coastal Northern Alaska. *Journal of Geophysical Research: Atmospheres*, 130(8), e2024JD042080.
+
+### 2024
+
+
+1. **Wang, H.**, Nagalingam, S., Welch, A. M., Leong, C., Czimczik, C. I., and Guenther, A. B. Heat waves may trigger unexpected surge in aerosol and ozone precursor emissions from sedges in urban landscapes. *Proceedings of the National Academy of Sciences*, 121(45), e2412817121.
+
+2. **Wang, H.**, Welch, A. M., Nagalingam, S., Leong, C., Czimczik, C. I., Tang, J., Seco, R., Rinnan, R., Vettikkat, L., Schobesberger, S., et al. High temperature sensitivity of Arctic isoprene emissions explained by sedges. *Nature Communications*, 15(1), 6144.
+
+3. **Wang, H.**, Welch, A., Nagalingam, S., Leong, C., Kittitananuvong, P., Barsanti, K. C., Sheesley, R. J., Czimczik, C. I., and Guenther, A. B. Arctic heatwaves could significantly influence the isoprene emissions from shrubs. *Geophysical Research Letters*, 51(2), e2023GL107599.
+
+4. Wong, G., **Wang, H.**, Park, M., Park, J., Ahn, J.-Y., Sung, M., Choi, J., Park, T., Ban, J., Kang, S., et al. Optimizing an airborne mass-balance methodology for accurate emission rate quantification of industrial facilities: A case study of industrial facilities in South Korea. *Science of The Total Environment*, 912, 169204.
+
+5. Nagalingam, S., **Wang, H.**, Kim, S., and Guenther, A. Unexpectedly strong heat stress induction of monoterpene, methylbutenol, and other volatile emissions for conifers in the cypress family (Cupressaceae). *Science of The Total Environment*, 956, 177336.
+
+### 2022
+
+1. **Wang, H.**, Lu, X., Seco, R., Stavrakou, T., Karl, T., Jiang, X., Gu, L., and Guenther, A. B. Modeling isoprene emission response to drought and heatwaves within MEGAN using evapotranspiration data and by coupling with the community land model. *Journal of Advances in Modeling Earth Systems*, 14(12), e2022MS003174.
+
+### 2021
+
+1. **Wang, H.**, Wu, Q., Guenther, A. B., Yang, X., Wang, L., Xiao, T., Li, J., Feng, J., Xu, Q., and Cheng, H. A long-term estimation of biogenic volatile organic compound (BVOC) emission in China from 2001–2016: The roles of land cover change and climate variability. *Atmospheric Chemistry and Physics*, 21(6), 4825–4848.
+
+2. Li, D., Wu, Q., **Wang, H.**, Xiao, H., Xu, Q., Wang, L., Feng, J., Yang, X., Cheng, H., Wang, L., et al. The Spring Festival Effect: The change in NO₂ column concentration in China caused by the migration of human activities. *Atmospheric Pollution Research*, 12(12), 101232.
+
+### 2020
+
+1. Zhang, Y., Zhao, Y., Li, J., Wu, Q., **Wang, H.**, Du, H., Yang, W., Wang, Z., and Zhu, L. Modeling ozone source apportionment and performing sensitivity analysis in summer on the North China Plain. *Atmosphere*, 11(9), 992.
+
+### 2019
+
+1. **Wang, H.**, Lin, J., Wu, Q., Chen, H., Tang, X., Wang, Z., Chen, X., Cheng, H., and Wang, L. MP CBM-Z V1.0: design for a new Carbon Bond Mechanism Z (CBM-Z) gas-phase chemical mechanism architecture for next-generation processors. *Geoscientific Model Development*, 12(2), 749–764.
+
+### 2018
+
+1. **Wang, H.**, Wu, Q., Liu, H., Wang, Y., Cheng, H., Wang, R., Wang, L., Xiao, H., and Yang, X. Sensitivity of biogenic volatile organic compound emissions to leaf area index and land cover in Beijing. *Atmospheric Chemistry and Physics*, 18(13), 9583–9596.
+
+2. Wang, Y., Chen, H., Wu, Q., Chen, X., **Wang, H.**, Gbaguidi, A., Wang, W., and Wang, Z. Three-year, 5 km resolution China PM2.5 simulation: Model performance evaluation. *Atmospheric Research*, 207, 1–13.
+
+### 2017
+
+1. **Wang, H.**, Chen, H., Wu, Q., Lin, J., Chen, X., Xie, X., Wang, R., Tang, X., and Wang, Z. GNAQPMS v1.1: Accelerating the global nested air quality prediction modeling system (GNAQPMS) on Intel Xeon Phi processors. *Geoscientific Model Development*, 10(8), 2891–2904.
