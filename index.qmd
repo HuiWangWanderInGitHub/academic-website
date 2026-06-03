@@ -2,11 +2,12 @@
 title: ""
 ---
 
-::: {.hero-title}
-
-# Biosphere-Atmosphere Chemical Interaction (BACI) Research Group
-
+::: {.hero-container}
+::: {.hero-text-box}
+### Biosphere-Atmosphere Chemical Interactions (BACI) Research Group
 :::
+:::
+
 
 ::: {.welcome-section}
 

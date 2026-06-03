@@ -1,29 +1,56 @@
 /* css styles */
-.hero-title {
-  background-image: linear-gradient(
-      rgba(0, 0, 0, 0.35),
-      rgba(0, 0, 0, 0.35)
-    ),
-    url("images/general/title_forest.jpg");
+/* ─── 1. 外层大图容器：横铺全屏，承载背景图 ─── */
+/* ─── 1. 外层大图容器 ─── */
+.hero-container {
+  background-image: url("images/general/foggy_forest.jpg");
   background-size: cover;
   background-position: center;
-  min-height: 200px;
-  border-radius: 12px;
+  height: 600px;             
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 0;
+  margin-bottom: 3rem;
+
+  /* 核心修改：让内部的文字条垂直居中，内容整体靠左 */
   display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 3rem 2rem;
-  margin-bottom: 2rem;
+  align-items: center;       
+  justify-content: flex-start; /* 改为 flex-start，让内容靠左对齐 */
 }
 
-.hero-title h1 {
-  color: white;
-  font-size: 2.0rem;
-  font-weight: 700;
-  max-width: 950px;
-  line-height: 1.2;
+/* ─── 2. 内层文字遮罩盒 ─── */
+.hero-text-box {
+  width: 80%;               
+  background-color: rgba(0, 0, 0, 0.2); 
+  
+  /* 核心修改：左边留 10% 的安全边距，把右边留大（40%），让文字留在左侧区域 */
+  padding: 3.5rem 5% 3.5rem 5%; 
+  
+  text-align: left;         /* 改为 left，文字左对齐 */
+  color: #ffffff;            
+  
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
 }
+
+/* ─── 3. 盒内文字细节（更大、更粗） ─── */
+.hero-text-box h1 {
+  font-size: 4.5rem;         /* 进一步放大字号（原本是 2.8rem） */
+  font-weight: 800;          /* 极粗体（Extra Bold，原本是 700） */
+  letter-spacing: -0.02em;   /* 稍微紧凑一点的字间距，大字会更有力量感 */
+  margin-bottom: 1.2rem;
+  color: #ffffff !important; 
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.6); /* 稍微加深阴影，确保大粗字视觉清晰 */
+}
+
+.hero-text-box h3 {
+  font-size: 3rem;        /* 副标题也相应放大（原本是 1.5rem） */
+  font-weight: 600;          /* 副标题也加粗（原本是 400） */
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.95) !important;
+}
+
 
 .recruiting-highlight {
   background: #eaf7ea;
@@ -49,7 +76,7 @@
 }
 
 body {
-  font-size: 20px;
+  font-size: 24px;
   line-height: 1.65;
 }
 
@@ -59,6 +86,10 @@ h1, h2, h3 {
 
 .navbar-title {
   font-weight: 700;
+}
+
+.navbar {
+  margin-bottom: 0 !important;
 }
 
 .hero {
@@ -110,3 +141,5 @@ blockquote {
   width: 100%;
   height: auto;
 }
+
+

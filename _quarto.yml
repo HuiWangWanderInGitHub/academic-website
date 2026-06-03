@@ -38,7 +38,12 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
     toc-depth: 3
     smooth-scroll: true
     link-external-newwindow: true
+    grid:
+      body-width: 1000px    # 默认正文宽度通常在 700px-800px 左右，调大它可以缩短两边留白
+      sidebar-width: 200px # 左侧边栏宽度（如果用到了文档树导航）
+      margin-width: 200px  # 右侧边栏/留白宽度（TOC目录所在区域）
+
