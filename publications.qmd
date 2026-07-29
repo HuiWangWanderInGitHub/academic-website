@@ -6,9 +6,11 @@ title: ""
 
 ### 2026
 
-1. Zhang, Y., Wu, K., **Wang, H.^*^**, Pfannerstill, E. Y., Nagalingam, S., Coggon, M. M., Stockwell, C., Ruiz, M. V., Ho, C., Yu, Y., et al. Reconciling observed and modeled estimates of urban terpenoid emissions. (Accepted by *Nature Communications*, corresponding author)
+1. Zhang, Y., Wu, K., **Wang, H.^*^**, Pfannerstill, E. Y., Nagalingam, S., Coggon, M. M., Stockwell, C., Ruiz, M. V., Ho, C., Yu, Y., et al. Reconciling observed and modeled estimates of urban terpenoid emissions. *Nature Communications*, https://doi.org/10.1038/s41467-026-75075-9. (corresponding author)
 
-2. Yu, J., Moore, J. K., Primeau, F. W., Nuno, A., Krumhardt, M. M., Levy, M., Lindsay, K., **Wang, H.**, Martiny, A. C. Trade-off between Climate Benefits and Ecological Costs of Ocean Iron Fertilization. （Accepted by *Nature*）
+2. Yu, J., Moore, J. K., Primeau, F. W., Nuno, A., Krumhardt, M. M., Levy, M., Lindsay, K., **Wang, H.**, Martiny, A. C. Trade-off between Climate Benefits and Ecological Costs of Ocean Iron Fertilization. *Nature*. https://doi.org/10.1038/s41586-026-10795-y
+
+3. Tang, J., **Wang, H.^*^**, Li, T., Cai, Z., Guenther, A., Olsson, P.-O., Schurgers, G., Rieksta, J., He, C., Tang, W., et al. Moth Effect: Herbivore-induced plant volatiles disturb weather patterns. (Under review in *Science Advances*, co-first and corresponding author)
 
 ### 2025
 
