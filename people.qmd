@@ -2,15 +2,113 @@
 title: "People"
 ---
 
-## PhD Students
+<style>
+.profile-card {
+  margin-bottom: 2rem;
+}
 
-### Student Name
+.profile-photo {
+  width: 100%;
+  max-width: 260px;
+  aspect-ratio: 1.6 / 2;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 0.8rem;
+}
 
-I'm looking for motivated master and phd students!
+.profile-card h3 {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
 
-Contact me if you are interested!
+.profile-period {
+  color: #666;
+  margin-bottom: 0.7rem;
+}
+</style>
+
+## (Future) PhD Students
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.profile-card}
+![](images/people/HuiWang_Student.jpg){.profile-photo}
+
+### Wang, Hui (王慧) 
+
+<div class="profile-period">2027–Present</div>
+
+Wang Hui will join the group in 2027.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.profile-card}
+![](images/people/XinyueLiu.jpg){.profile-photo}
+
+### Liu, Xinyue (刘馨月)
+
+<div class="profile-period">2027–Present</div>
+
+Liu Xinyue will join the group in 2027.
+:::
+:::
+
+:::
 
 ## Master Students
 
-## Undergrad Students
+::: {.grid}
 
+::: {.g-col-12 .g-col-md-6}
+::: {.profile-card}
+![](images/people/Xiangding.jpg){.profile-photo}
+
+### Chen, Xiangding (陈相锭)
+
+<div class="profile-period">2026–Present</div>
+
+Research direciton: TBD
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.profile-card}
+![](images/people/YaranZhang.jpg){.profile-photo}
+
+### Zhang, Yaran (张雅然)
+
+<div class="profile-period">2026–Present</div>
+
+Research direciton: TBD
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.profile-card}
+![](images/people/Zirun_Zeng.jpg){.profile-photo}
+
+### Zeng, Zirun (曾子润)
+
+<div class="profile-period">2026–Present</div>
+
+Research direciton: TBD
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.profile-card}
+![](images/people/YuWeiDang.jpeg){.profile-photo}
+
+### Dang, Yuwei (党钰薇)
+
+<div class="profile-period">2026–Present</div>
+
+Research direciton: TBD
+:::
+:::
+
+:::
+
+## Undergrad Students
