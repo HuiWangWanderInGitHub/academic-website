@@ -45,7 +45,7 @@ Wang Hui will join the group in 2027.
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.profile-card}
-![](images/people/XinyueLiu.jpg){.profile-photo}
+![](images/people/XinyueLiu_small.jpg){.profile-photo}
 
 ### Liu, Xinyue (刘馨月)
 
